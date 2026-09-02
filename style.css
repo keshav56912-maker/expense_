@@ -1,1 +1,11 @@
+body {
+    background-color: #f8f9fa;
+}
 
+.card {
+    border: none;
+}
+
+#expenseList {
+    min-height: 50px;
+}
